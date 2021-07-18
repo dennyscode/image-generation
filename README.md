@@ -1,5 +1,7 @@
 # Image-Generation
 
+Generate images using HTML + CSS
+
 ## What´s it
 This is a test repository for checking out [Node-Html-To-Image](https://github.com/frinyvonnick/node-html-to-image)
 
